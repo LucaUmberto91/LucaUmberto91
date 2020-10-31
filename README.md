@@ -1,6 +1,7 @@
 # 💻 Luca's GitHub page 💻
-### I am a Computer Engineer and Java developer.
+## I am a Computer Engineer and Java developer.
 ![alt text](https://user-images.githubusercontent.com/65346271/97787292-6b66e980-1bb1-11eb-9512-f94e07629f4b.jpg)
+### I currently work in the development team at an online university as a back-end developer.
 <!--
 **LucaUmberto91/LucaUmberto91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
